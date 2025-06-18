@@ -1,3 +1,3 @@
-Assia = (2,4,6)
-#we can't add to the tuples because they are designed to protect data: their immutability ensures
-# that the values stay fixed, making them safer, faster, and usable as dictionary keys.
+my_tuple = (3,5,7,10,15)
+print(my_tuple)
+# Tuples are immutable, which means once they are created, their elements cannot be changed.
