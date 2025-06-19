@@ -4,7 +4,5 @@ multiples = []
 for i in range(1,length):
     mul = number * i
     multiples.append(mul)
-print(f"number : {number} - length : {length} -> {multiples}")    
-
-
+print(f"number : {number} - length : {length} -> {multiples}")   
     
