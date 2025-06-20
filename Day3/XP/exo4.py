@@ -34,3 +34,6 @@ ramat_gan_safari.sell_animal("Bear")
 ramat_gan_safari.get_animals()
 ramat_gan_safari.sort_animals()
 ramat_gan_safari.get_groups()
+
+
+

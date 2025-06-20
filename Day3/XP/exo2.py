@@ -24,3 +24,6 @@ if davids_dog.height == sarahs_dog :
     print("The dogs are the same height ")
 else:
     print("The dogs are not the same height")    
+
+
+    

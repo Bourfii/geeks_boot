@@ -15,8 +15,3 @@ def Oldest_Cat(cat1,cat2,cat3):
         return cat3
 oldest = Oldest_Cat(cat1,cat2,cat3)    
 print(f"The oldest cat is  {oldest.name} and is {oldest.age} years old")  
-
-    
-
-    
-
