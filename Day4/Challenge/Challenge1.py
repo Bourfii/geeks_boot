@@ -1,5 +1,4 @@
 import math
-
 class Pagination:
     def __init__(self, items=None, page_size=10):
         if items is None:
